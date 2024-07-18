@@ -13,3 +13,5 @@
 
 - Android SDK
 - Kotlin
+- RecyclerView
+- SearchView 
