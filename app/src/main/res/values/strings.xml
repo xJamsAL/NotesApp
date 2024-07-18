@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="ed_title_hint_name">Загаловок</string>
+    <string name="ed_subtitle_hint_name">Описание</string>
+    <string name="empty_main">Нет заметок</string>
+    <string name="Main_title">Заметки</string>
+</resources>
